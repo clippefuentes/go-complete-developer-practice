@@ -18,7 +18,7 @@ func main() {
 	// clyne.firstName = "clyne"
 	// clyne.lastName = "fuentes"
 	clyne := person{
-		firstName: "clyne", 
+		firstName: "clyne test", 
 		lastName: "fuentes",
 		contact: contactinfo{
 			email: "clyne@email",
